@@ -1,4 +1,3 @@
-Student ID: 1080915 & 1079686
 Instructions:
 Run the functions in order:
 First import the libraries, then run
